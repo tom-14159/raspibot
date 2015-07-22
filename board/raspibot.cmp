@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Út 21. červenec 2015, 22:25:14 CEST
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = St 22. červenec 2015, 17:36:16 CEST
 
 BeginCmp
 TimeStamp = /55AEB08B;
@@ -71,10 +71,17 @@ IdModule  = PIN_ARRAY_5x1;
 EndCmp
 
 BeginCmp
+TimeStamp = /55AFB8B4;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
 TimeStamp = /55AEB3B3;
 Reference = R1;
 ValeurCmp = R;
-IdModule  = R4;
+IdModule  = SIL-2;
 EndCmp
 
 BeginCmp
@@ -101,6 +108,13 @@ EndCmp
 BeginCmp
 TimeStamp = /55AEAA57;
 Reference = R5;
+ValeurCmp = R;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55AFB883;
+Reference = R6;
 ValeurCmp = R;
 IdModule  = SIL-2;
 EndCmp
